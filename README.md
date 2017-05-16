@@ -1,5 +1,5 @@
 # IoT-Smart-Home-and-Car-Internet-of-Things
-simple IoT application using MQTT on raspberry PI 3
+Created a custom IoT application with flask app and python to track car location from home location and set communication between car and home via MQTT (mosquito) on AWS EC2 instance.
 
 Component Details
 
